@@ -11,6 +11,6 @@ class marine : public unit
 	
 	void move(int x, int y);
 	void stimpack();
-}
+};
 
 #endif
